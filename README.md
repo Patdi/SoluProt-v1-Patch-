@@ -98,7 +98,7 @@ usearch_arguments = ['-usearch_global', self.fasta_path,
 <ul>
   <li><code>tmhmm</code></li>
   <li><code>tmhmmformat.pl</code></li>
-  <li>tmhmm.ORIG</li>
+  <li><code>tmhmm.ORIG</code>code></li>
 </ul>
 <hr />
 
